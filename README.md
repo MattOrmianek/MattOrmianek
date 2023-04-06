@@ -1,6 +1,7 @@
 # 💫 About Me:
 I’m currently working on Python backend skills.<br>I’m currently learning Rust and Python tricks.<br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mattormianek00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattormianek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OhMateusz) 
