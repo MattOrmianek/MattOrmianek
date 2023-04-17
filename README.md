@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on Python backend skills.<br>I’m currently learning Rust and Python tricks.<br>
+
+Passionate programmer with 6 years of amateur experience and 2 years of professional experience, focused on meticulousness and delivering results. Communicative, works well with the team. Critical and analytical thinker </br>
 
 
 ## 🌐 Socials:
