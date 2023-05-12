@@ -1,7 +1,3 @@
-# 💫 About Me:
-
-Passionate programmer with 6 years of amateur experience and 2 years of professional experience, focused on meticulousness and delivering results. Communicative, works well with the team. Critical and analytical thinker </br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattormianek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OhMateusz) 
