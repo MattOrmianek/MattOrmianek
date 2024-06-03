@@ -11,4 +11,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattormianek&show_icons=true&theme=tokyonight&title_color=181692&text_color=ffffff&locale=en&layout=compact" alt="mattormianek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattormianek&show_icons=true&locale=en" alt="mattormianek" /></p>
