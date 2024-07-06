@@ -31,7 +31,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.softformance.com/wp-content/uploads/2022/07/1.2-Flask-Logo.jpg" alt="flask" width="60" height="60"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="100" height="60"/> </a>
-<a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="nextjs" width="70" height="60"/> </a>
+<a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="70" height="60"/> </a>
 
 
 <h3 align="left">Systems:</h3>
