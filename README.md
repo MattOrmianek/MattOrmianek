@@ -92,7 +92,7 @@
         <img src="https://numpy.org/images/logo.svg" alt="numpy" width="60" height="60"/>
     </a>
     <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuim-LaZV2h_liFO_YNZLMVZZbv47mTOxFkw&s" alt="SQLAlchemy" width="90" height="60"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuim-LaZV2h_liFO_YNZLMVZZbv47mTOxFkw&s" alt="SQLAlchemy" width="120" height="60"/>
     </a>
 </p>
 
