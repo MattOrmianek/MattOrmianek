@@ -64,8 +64,11 @@
     <a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="90" height="60"/>
     </a>
+     <a href="https://www.ibm.com/topics/rest-apis" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/486082?v=4" alt="pytest" width="80" height="60"/>
+    </a>
      <a href="https://cython.org/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/486082?v=4" alt="pytest" width="60" height="60"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s" alt="pytest" width="60" height="60"/>
     </a>
     <a href="https://mosquitto.org/" target="_blank" rel="noreferrer">
         <img src="https://projects.eclipse.org/sites/default/files/mosquitto-200px.png" alt="Mosquitto" width="60" height="60"/>
@@ -90,9 +93,6 @@
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://numpy.org/images/logo.svg" alt="numpy" width="60" height="60"/>
-    </a>
-    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuim-LaZV2h_liFO_YNZLMVZZbv47mTOxFkw&s" alt="SQLAlchemy" width="120" height="60"/>
     </a>
 </p>
 
