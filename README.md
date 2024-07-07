@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=mattormianek&label=Profile%20views&color=0e75b6&style=flat" alt="mattormianek" height="40" width="170" />
+    <img src="https://komarev.com/ghpvc/?username=mattormianek&label=Profile%20views&color=0e75b6&style=flat" alt="mattormianek" height="30" width="130" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -52,6 +52,9 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
     </a>
+</p>
+<h3 align="left">Frameworks/Libs:</h3>
+<p align="left">
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://www.softformance.com/wp-content/uploads/2022/07/1.2-Flask-Logo.jpg" alt="flask" width="60" height="60"/>
     </a>
@@ -60,6 +63,9 @@
     </a>
     <a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="90" height="60"/>
+    </a>
+     <a href="https://cython.org/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/486082?v=4" alt="pytest" width="60" height="60"/>
     </a>
     <a href="https://mosquitto.org/" target="_blank" rel="noreferrer">
         <img src="https://projects.eclipse.org/sites/default/files/mosquitto-200px.png" alt="Mosquitto" width="60" height="60"/>
@@ -105,5 +111,6 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFDJLaUHfkk5JOqF2RTfK4m3RgHi3kM7Txw&s" alt="bash"  width="60" height="60"/>
     </a>
 
-  </br>
+</br>
+</br>
 <img src="https://images.anandtech.com/doci/15990/202008172217431_575px.jpg" alt="What Andy giveth, Bill taketh away"/>
