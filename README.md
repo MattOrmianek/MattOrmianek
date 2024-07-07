@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=mattormianek&label=Profile%20views&color=0e75b6&style=flat" alt="mattormianek" height="30" width="130" />
+    <img src="https://komarev.com/ghpvc/?username=mattormianek&label=Profile%20views&color=0e75b6&style=flat" alt="mattormianek" height="25" width="130" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
