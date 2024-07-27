@@ -9,7 +9,6 @@
     </a>
 </p>
 
-
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -26,7 +25,6 @@
     </a>
 </p>
 
-
 <h3 align="left">Databases:</h3>
 <p align="left">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -36,7 +34,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
     </a>
 </p>
-
 
 <h3 align="left">Tools:</h3>
 <p align="left">
