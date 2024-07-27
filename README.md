@@ -118,7 +118,10 @@
 </p>
 
 
+
 <h3 align="left">Setup:</h3>
+
+
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash"  width="60" height="60"/>
