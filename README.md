@@ -52,9 +52,6 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postm an" width="60" height="60"/>
     </a>
-    <a href="Jira" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/2518 bo 1517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" width="60" height="60"/>
-    </a>
 </p>
 <h3 align="left">Frameworks/Libs:</h3>
 <p align="left">
