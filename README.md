@@ -111,23 +111,7 @@
     </a>
 </p>
 
-<h3 align="left">Setup:</h3>
 
 
-<p align="left">
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash"  width="60" height="60"/>
-    </a>
-    <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VSC" width="60" height="60"/>
-    </a>
-    <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" alt="nvim" width="60" height="60"/>
-    </a>
-    <a href="https://www.warp.dev/" target="_blank" rel="noreferrer">
-        <img src="https://yt3.googleusercontent.com/ejZ6-YCXwe7lJy0omZR0gjV2e7VryuQkIXwTB7lRLVi_uZw8ifr1iA6toGX_6d45TjVcb3LeSA=s900-c-k-c0x00ffffff-no-rj" alt="warp" width="60" height="60"/>
-    </a>
+<h3 align="center"><img src="https://images.anandtech.com/doci/15990/202008172217431_575px.jpg" alt="What Andy giveth, Bill taketh away"/></h3>
 
-</br>
-</br>
-<img src="https://images.anandtech.com/doci/15990/202008172217431_575px.jpg" alt="What Andy giveth, Bill taketh away"/>
