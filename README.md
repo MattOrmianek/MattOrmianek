@@ -21,6 +21,26 @@
     </a>
 </p>
 
+<h3 align="left">Web:</h3>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Light.svg" alt="flask" width="60" height="60"/>
+</a>
+<a href="https://www.ibm.com/topics/rest-apis" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" width="70" height="60"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="fastapi" width="60" height="60"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" alt="django" width="60" height="60"/>
+</a>
+<a href="selenium" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selenium" width="60" height="60"/>
+</a>
+<a href="swagger" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" width="60" height="60"/>
+</a>
+
 <h3 align="left">Databases:</h3>
 <p align="left">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -56,28 +76,22 @@
 <h3 align="left">Frameworks/Libs:</h3>
 <p align="left">
     <a href="websocket" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" width="60" height="60"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" alt="flask" width="60" height="60"/>
-    </a>
-    <a href="https://www.ibm.com/topics/rest-apis" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" width="70" height="60"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqJzGxhH-yeCT-LfsBbx2_-J_LE9khTLPOQ&s" alt="websocket" width="60" height="60"/>
     </a>
     <a href="https://python-jsonschema.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/13019229?s=280&v=4" alt="jsonschema" width="60" height="60"/>
     </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="fastapi" width="60" height="60"/>
-    </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" alt="matplotlib" width="60" height="60"/>
-    </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-light.svg" alt="pandas" width="60" height="60"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" alt="pandas" width="60" height="60"/>
     </a>
      <a href="https://cython.org/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/486082?v=4" alt="cython" width="60" height="60"/>
+    </a>
+    <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PlEgh9DDjB8O59_fQTRILPWCHR_KTAWZ2Q&s" alt="pydantic" width="60" height="60"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABCjpuMscLQRv3Qn612CuXy7wBF23Xs9AOQ&s" alt="pytorch" width="60" height="60"/>
     </a>
     <a href="https://mosquitto.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f56e337-1ee3-4f8d-827f-0864fae9687f" alt="Mosquitto" width="60" height="60"/>
@@ -97,18 +111,13 @@
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://numpy.org/images/logo.svg" alt="numpy" width="60" height="60"/>
     </a>
-    <a href="swagger" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" width="60" height="60"/>
-    </a>
     <a href="bun" target="_blank" rel="noreferrer">
         <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="bun" width="60" height="60"/>
     </a>
     <a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" width="60" height="60"/>
     </a>
-    <a href="selenium" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selenium" width="60" height="60"/>
-    </a>
+
 </p>
 
 
