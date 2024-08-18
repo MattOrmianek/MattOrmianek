@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=mattormianek&label=Profile%20views&color=0e75b6&style=flat" alt="mattormianek" height="25" width="140" />
 </p>
 
@@ -16,10 +16,6 @@
     </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="c++" width="60" height="60"/>
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/>
-    </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="60" height="60"/>
     </a>
@@ -32,6 +28,10 @@
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+    </a>
+    <a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="mongodb" width="60" height="60"/>
     </a>
 </p>
 
