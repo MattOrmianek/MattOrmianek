@@ -16,6 +16,7 @@
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="60" height="60"/>
     </a>
+    
 </p>
 
 <h3 align="left">Web:</h3>
@@ -36,6 +37,9 @@
 </a>
 <a href="swagger" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" width="60" height="60"/>
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/vuejs/art/blob/master/logo.png?raw=true" alt="vue" width="60" height="60"/>
 </a>
 
 <h3 align="left">Databases:</h3>
