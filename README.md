@@ -7,7 +7,7 @@
 </p>
 <p align="left">
     <a href="https://mattormianek.netlify.app/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjuVkFhHXN6otvbQJgGic7DmCZp0pnsPhLyQ&s" alt="https://mattormianek.netlify.app/" height="30" width="60" />
+        <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjuVkFhHXN6otvbQJgGic7DmCZp0pnsPhLyQ&s" alt="https://mattormianek.netlify.app/" height="60" width="60" />
     </a>
 </p>
 
